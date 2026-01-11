@@ -1,0 +1,5 @@
+app/favicon.ico
+app/firebase.js
+app/globals.css
+app/layout.tsx
+app/page.tsx
